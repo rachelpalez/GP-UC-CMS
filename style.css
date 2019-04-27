@@ -1,0 +1,15 @@
+/*
+Theme Name: Twentynineteen Child Theme
+Theme URI: https: //github.com/WordPress/twentynineteen
+Description: A child theme of Twentynineteen Parent Theme
+Author: Shane, Rachel and Kim
+Template: twentynineteen
+Version: 1.0.0
+*/
+
+/* @import url("../twentynineteen/style.css"); */
+
+body {
+  background-color: aqua;
+  font-family: 'Roboto', sans-serif;
+}
