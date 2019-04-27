@@ -1,4 +1,5 @@
 <?php
+// to be decided it this is way we go
 
 function custom_scripts() {
 wp_enqueue_style( 'bootstrap-style' , 'https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' );

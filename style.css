@@ -7,9 +7,4 @@ Template: twentynineteen
 Version: 1.0.0
 */
 
-/* @import url("../twentynineteen/style.css"); */
-
-body {
-  background-color: aqua;
-  font-family: 'Roboto', sans-serif;
-}
+@import url("../twentynineteen/style.css");
