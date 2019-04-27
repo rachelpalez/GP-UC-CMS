@@ -1,1 +1,13 @@
-/* test file */
+/* 
+
+Theme Name: Twenty Nineteen Child Theme
+Theme URI: https://github.com/WordPress/twentynineteen
+Author: UC team - Kim, Shane & Rachel
+Author URI: https://wordpress.org/
+Description: Child theme based of Twenty Nineteen
+Template: twentynineteen
+Version: 1.0
+
+*/
+
+@import url("../twentynineteen/style.css");
